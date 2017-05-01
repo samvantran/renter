@@ -1,7 +1,8 @@
 
+db.*
 .idea*
 *.py[co]
 __pycache__
-*__init__*
+__init__*
 settings.py*
 
