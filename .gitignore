@@ -1,7 +1,5 @@
 
-
 .idea*
-
 *.py[co]
 __pycache__
 *__init__*
